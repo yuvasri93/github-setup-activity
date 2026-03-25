@@ -1,24 +1,23 @@
 ===============================
       GITHUB SETUP ACTIVITY
 ===============================
-
-👤 STUDENT DETAILS
+STUDENT DETAILS
 -------------------------------
 Name            : Yuvasri A
 Register Number : 922525104189
 Department      : I CSE C
 
-🔗 GITHUB PROFILE
+ GITHUB PROFILE
 -------------------------------
 https://github.com/yuvasri93
 
-📌 ABOUT THIS FILE
+ ABOUT THIS FILE
 -------------------------------
 This file is created as part of the GitHub Setup Activity.
 It demonstrates my understanding of repository creation,
 file uploading, and basic GitHub features.
 
-📚 OBJECTIVES OF THE ACTIVITY
+OBJECTIVES OF THE ACTIVITY
 -------------------------------
 - To understand version control concepts
 - To learn how GitHub works as a platform
@@ -26,7 +25,7 @@ file uploading, and basic GitHub features.
 - To upload and organize files
 - To explore collaboration features
 
-🛠️ TASKS PERFORMED
+ TASKS PERFORMED
 -------------------------------
 1. Created a GitHub account
 2. Set up profile with photo and bio
@@ -35,7 +34,7 @@ file uploading, and basic GitHub features.
 5. Uploaded this sample file
 6. Learned basic GitHub features
 
-💡 KEY CONCEPTS LEARNED
+KEY CONCEPTS LEARNED
 -------------------------------
 Git:
 Git is a version control system used to track changes in files.
@@ -52,19 +51,19 @@ A commit saves changes made to files.
 Branch:
 A branch allows working on different versions of a project.
 
-📂 FILE STRUCTURE
+FILE STRUCTURE
 -------------------------------
 - README.md
 - readme.txt
 
-🚀 FUTURE PLANS
+FUTURE PLANS
 -------------------------------
 - Learn programming languages like Python and Java
 - Build mini projects
 - Upload more repositories
 - Use GitHub for collaboration
 
-🎯 CONCLUSION
+CONCLUSION
 -------------------------------
 This activity helped me understand the basics of GitHub.
 I am now confident in creating repositories and uploading files.
